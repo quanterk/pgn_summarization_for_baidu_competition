@@ -25,3 +25,9 @@ If you are interested about this competiton or you have great interest in summar
 
 
 
+how to run :
+   1. put the raw data  to the data dir.
+   2. bash data_prepare.sh
+   3. bash train.sh
+   4. bash predict.sh
+
