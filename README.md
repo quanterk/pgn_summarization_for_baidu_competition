@@ -1,6 +1,8 @@
 # pgn_for_baidu_competition
 
-this repository is for one summarization and inference competition launched by baidu.
+
+
+this repository is for one summarization and inference competition using pytorch launched by baidu.
 
 details can be found from：    https://aistudio.baidu.com/aistudio/competition/detail/3.
 
