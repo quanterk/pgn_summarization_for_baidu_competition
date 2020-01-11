@@ -7,7 +7,7 @@ details can be found from：    https://aistudio.baidu.com/aistudio/competition/
 I use the pointer-generator-network and get the score(ROUGH_L) about 37. 
 
 
-![image](https:https://github.com/quanterk/pgn_for_baidu_competition/blob/master/images/pgn.png)
+
 
 
 
