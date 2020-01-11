@@ -6,7 +6,7 @@ details can be found from：    https://aistudio.baidu.com/aistudio/competition/
 
 I use the pointer-generator-network and get the score(ROUGH_L) about 37. It is not a very good result, cause somebody reached about 50 and even 70. In the case I try to pretrain the word vector, but the result is behind the one which does not pretrain,It's so strange.
 
-I encounter the problem that the loss will change to be NAN after thousands steps, which is about 10 epoachs. It's hard for me to find the reason. Maybe I will fix this problem in the funture.
+I encounter the problem that the loss will change to be NAN after thousands steps, which is about 10 epoachs. It's hard for me to find the reason. Maybe I will fix this problem in the future.
 
 In the future， I will try different approaches to solve this competition, and try my best the get higher scores.
 
