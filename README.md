@@ -1,6 +1,7 @@
 # pgn_for_baidu_competition
 
 
+update
 
 this repository is for one summarization and inference competition using pytorch launched by baidu.
 
